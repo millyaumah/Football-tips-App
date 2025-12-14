@@ -43,10 +43,9 @@ This app is suitable for sports communities, tipsters, or subscription-based spo
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screen2.jpg" width="400" alt="Free tips."/>
-  <img src="assets/screenshots/screen1.jpg" width="400" alt="VIP plans."/>
+  <img src="screen2.jpg" width="400" alt="Free tips."/>
+  <img src="screen1.jpg" width="400" alt="VIP plans."/>
 </p>
-
 ---
 
 ## 🚀 Getting Started
