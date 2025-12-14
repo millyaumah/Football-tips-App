@@ -42,8 +42,12 @@ This app is suitable for sports communities, tipsters, or subscription-based spo
 
 ## 📸 Screenshots
 
-> *Free tips- assets/screen2.jpg
-> *VIP     - assets/screen1.jpg
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screen2.jpg" width="400" alt="Free tips."/>
+  <img src="assets/screen1.jpg" width="400" alt="VIP plans."/>
+</p>
 
 ---
 
